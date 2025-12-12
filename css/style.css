@@ -1,0 +1,20 @@
+.navbar {
+  background: #2b2727;
+  padding: 15px 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: sticky;
+  top: 0;
+  border-bottom: 5px solid #e6ff06;
+  z-index: 100;
+}
+.btn {
+  display: inline-block;
+  padding: 12px 25px;
+  background: #0066ff;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  margin-top: 10px;
+}
