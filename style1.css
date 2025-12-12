@@ -1,0 +1,24 @@
+a { color: green; }
+p { color: rgb(37, 13, 255); }
+
+.highlight { 
+    background-color: yellow; 
+    color: #333; 
+    font-weight: bold; 
+    font-style: italic;
+} 
+
+#main-title { 
+    border-bottom: 2px 
+    solid #000; 
+} 
+body { 
+    font-family: Arial, sans-serif; 
+}
+
+h1 { text-align: center; } 
+
+p:not(.highlight) 
+{ 
+    font-weight: bold; font-style: italic;
+ } 
